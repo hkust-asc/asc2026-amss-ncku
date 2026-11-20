@@ -1,3 +1,9 @@
+> **ASC Team fork.** This is a study copy of published ASC Student Supercomputer Challenge materials. It is not an official ASC Committee repository, and it is not a university endorsement.
+>
+> - Contest: ASC26 (2026)
+> - Upstream: https://github.com/ASC-Competition/AMSS-NCKU
+> - Year and original name are recorded in [SOURCE.md](SOURCE.md).
+
 # AMSS-NCKU 
 
 #### What can AMSS-NCKU do
